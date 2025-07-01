@@ -3,3 +3,4 @@ This project implements PINNs to solve the Black-Scholes PDE for vanilla options
 
 - pinn-tensorflow: Contains implementation of pinn in tensorflow 2.0 with mlp
 - pinn-pytorch: Contains implementation of pinn in pytorch with mlp
+- Untitled0.ipynb Contains implementation of pinn in tensorflow 1.0 with mlp
